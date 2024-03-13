@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "course.h": "c",
+        "student.h": "c"
+    }
+}
